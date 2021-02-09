@@ -1,0 +1,15 @@
+.mega-number {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+    border-radius: 50%;
+}
+
+.numbers {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
